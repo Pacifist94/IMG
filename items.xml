@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<ItemCollection>
+	<Items>
+		<Item name="L0_Sword1" versicle="Commit to the Lord whatever you do, and he will establish your plans.">
+		</Item>
+
+		<Item name="L0_Sword2" versicle="Before they call I will answer; while they are still speaking I will hear.">
+		</Item>
+
+		<Item name="L0_Sword3" versicle="Wisdom reposes in the heart of the discerning.">
+		</Item>
+
+		<Item name="L0_Sword4" versicle="A heart at peace gives life to the body, but envy rots the bones.">
+		</Item>
+
+		<Item name="L0_Sword5" versicle="A happy heart makes the face cheerful, but heartache crushes the spirit.">
+		</Item>
+
+		<Item name="L0_Sword6" versicle="You are altogether beautiful, my darling; there is no flaw in you.">
+		</Item>
+
+		<Item name="L0_Sword7" versicle="Walk in obedience, love him, serve the Lord with all your heart and soul">
+		</Item>
+
+		<Item name="L0_Sword8" versicle="Fear the Lord your God and serve him.">
+		</Item>
+
+		<Item name="L0_Sword9" versicle="To the Lord belong the heavens, even the highest heavens, the earth and everything in it.">
+		</Item>
+
+		<Item name="L0_Sword10" versicle="The Lord your God is bringing you into a good land, a land with brooks and streams">
+		</Item>
+
+		<Item name="L0_Sword11" versicle="A man disciplines his son, so the Lord your God disciplines you.">
+		</Item>
+
+		<Item name="L0_Sword12" versicle="He will love you and bless you and increase your numbers. He will bless the fruit of your land">
+		</Item>
+
+		<Item name="L0_Sword13" versicle="Hear, O Israel: The Lord our God, the Lord is one.">
+		</Item>
+
+		<Item name="L0_Sword14" versicle="Love the Lord your God with all your heart and with all your soul and with all your strength.">
+		</Item>
+
+		<Item name="L0_Sword15" versicle="but showing love to a thousand generations of those who love me and keep my commandments.">
+		</Item>
+
+		<Item name="L0_Sword16" versicle="You saw no form of any kind the day the Lord spoke to you at Horeb">
+		</Item>
+
+		<Item name="L0_Sword17" versicle="But if from there you seek the Lord your God, you will find Him">
+		</Item>
+
+		<Item name="L0_Sword18" versicle="But as for me and my household, we will serve the Lord.">
+		</Item>
+
+		<Item name="L0_Sword19" versicle="I will sing of the Lord’s great love forever">
+		</Item>
+
+		<Item name="L0_Sword20" versicle="By this everyone will know that you are my disciples, if you love one another">
+		</Item>
+
+
+
+
+
+
+		<Item name="L1_Sword1" versicle="Encomienda a Jehová tus obras, Y tus pensamientos serán afirmados.">
+		</Item>
+
+		<Item name="L1_Sword2" versicle="Y antes que clamen, responderé yo; mientras aún hablan, yo habré oído.">
+		</Item>
+
+		<Item name="L1_Sword3" versicle="En el corazón del prudente reposa la sabiduría">
+		</Item>
+
+		<Item name="L1_Sword4" versicle="El corazón apacible es vida de la carne; Mas la envidia es carcoma de los huesos">
+		</Item>
+
+		<Item name="L1_Sword5" versicle="El corazón alegre hermosea el rostro; Mas por el dolor del corazón el espíritu se abate.">
+		</Item>
+
+		<Item name="L1_Sword6" versicle="Toda tú eres hermosa, amiga mía, Y en ti no hay mancha.">
+		</Item>
+
+		<Item name="L1_Sword7" versicle="Que andes en todos sus caminos, y que lo ames, y sirvas a Jehová tu Dios con todo tu corazón y con toda tu alma">
+		</Item>
+
+		<Item name="L1_Sword8" versicle="SPA_Fear the Lord your God and serve him.">
+		</Item>
+
+		<Item name="L1_Sword9" versicle="SPA_To the Lord belong the heavens, even the highest heavens, the earth and everything in it.">
+		</Item>
+
+		<Item name="L1_Sword10" versicle="SPA_The Lord your God is bringing you into a good land, a land with brooks and streams">
+		</Item>
+
+		<Item name="L1_Sword11" versicle="SPA_A man disciplines his son, so the Lord your God disciplines you.">
+		</Item>
+
+		<Item name="L1_Sword12" versicle="SPA_He will love you and bless you and increase your numbers. He will bless the fruit of your land">
+		</Item>
+
+		<Item name="L1_Sword13" versicle="SPA_Hear, O Israel: The Lord our God, the Lord is one.">
+		</Item>
+
+		<Item name="L1_Sword14" versicle="SPA_Love the Lord your God with all your heart and with all your soul and with all your strength.">
+		</Item>
+
+		<Item name="L1_Sword15" versicle="SPA_but showing love to a thousand generations of those who love me and keep my commandments.">
+		</Item>
+
+		<Item name="L1_Sword16" versicle="SPA_You saw no form of any kind the day the Lord spoke to you at Horeb">
+		</Item>
+
+		<Item name="L1_Sword17" versicle="SPA_But if from there you seek the Lord your God, you will find Him">
+		</Item>
+
+		<Item name="L1_Sword18" versicle="SPA_But as for me and my household, we will serve the Lord.">
+		</Item>
+
+		<Item name="L1_Sword19" versicle="SPA_I will sing of the Lord’s great love forever">
+		</Item>
+
+		<Item name="L1_Sword20" versicle="SPA_By this everyone will know that you are my disciples, if you love one another">
+		</Item>
+
+
+
+
+		<Item name="L2_Sword1" versicle="Recommande tes œuvres à l'Eternel, et tes projets se réaliseront.">
+		</Item>
+
+		<Item name="L2_Sword2" versicle="Alors, avant qu'ils ne m'invoquent, je les exaucerai; ils parleront encore, que j'aurai déjà entendu">
+		</Item>
+
+		<Item name="L2_Sword3" versicle="La sagesse repose dans un esprit intelligent">
+		</Item>
+
+		<Item name="L2_Sword4" versicle="Un cœur paisible contribue à la vie du corps; mais l'envie est comme une maladie qui ronge les os.">
+		</Item>
+
+		<Item name="L2_Sword5" versicle="Un cœur joyeux rend le visage aimable, mais quand le cœur est triste, l'esprit est abattu.">
+		</Item>
+
+		<Item name="L2_Sword6" versicle="«Que tu es belle, ô mon amie, tu es parfaitement belle, sans un défaut.">
+		</Item>
+
+		<Item name="L2_Sword7" versicle="que tu le révères en suivant toutes les voies qu'il t'a prescrites, en l'aimant et en le servant de tout ton cœur et de tout ton être">
+		</Item>
+
+		<Item name="L2_Sword8" versicle="FRN_Fear the Lord your God and serve him.">
+		</Item>
+
+		<Item name="L2_Sword9" versicle="FRN_To the Lord belong the heavens, even the highest heavens, the earth and everything in it.">
+		</Item>
+
+		<Item name="L2_Sword10" versicle="FRN_The Lord your God is bringing you into a good land, a land with brooks and streams">
+		</Item>
+
+		<Item name="L2_Sword11" versicle="FRN_A man disciplines his son, so the Lord your God disciplines you.">
+		</Item>
+
+		<Item name="L2_Sword12" versicle="FRN_He will love you and bless you and increase your numbers. He will bless the fruit of your land">
+		</Item>
+
+		<Item name="L2_Sword13" versicle="FRN_Hear, O Israel: The Lord our God, the Lord is one.">
+		</Item>
+
+		<Item name="L2_Sword14" versicle="FRN_Love the Lord your God with all your heart and with all your soul and with all your strength.">
+		</Item>
+
+		<Item name="L2_Sword15" versicle="FRN_but showing love to a thousand generations of those who love me and keep my commandments.">
+		</Item>
+
+		<Item name="L2_Sword16" versicle="FRN_You saw no form of any kind the day the Lord spoke to you at Horeb">
+		</Item>
+
+		<Item name="L2_Sword17" versicle="FRN_But if from there you seek the Lord your God, you will find Him">
+		</Item>
+
+		<Item name="L2_Sword18" versicle="FRN_But as for me and my household, we will serve the Lord.">
+		</Item>
+
+		<Item name="L2_Sword19" versicle="FRN_I will sing of the Lord’s great love forever">
+		</Item>
+
+		<Item name="L2_Sword20" versicle="FRN_By this everyone will know that you are my disciples, if you love one another">
+		</Item>
+
+
+
+
+
+		<Item name="L3_Sword1" versicle="Befiehl dem HERRN deine Werke, so werden deine Anschläge fortgehen.">
+		</Item>
+
+		<Item name="L3_Sword2" versicle="Und soll geschehen, ehe sie rufen, will ich antworten; wenn sie noch reden, will ich hören.">
+		</Item>
+
+		<Item name="L3_Sword3" versicle="Im Herzen der umsichtige Weisheit ruht">
+		</Item>
+
+		<Item name="L3_Sword4" versicle="Ein gütiges Herz ist des Leibes Leben; aber Neid ist Eiter in den Gebeinen.">
+		</Item>
+
+		<Item name="L3_Sword5" versicle="Ein fröhlich Herz macht ein fröhlich Angesicht; aber wenn das Herz bekümmert ist, so fällt auch der Mut.">
+		</Item>
+
+		<Item name="L3_Sword6" versicle="Du bist allerdinge schön, meine Freundin, und ist kein Flecken an dir.">
+		</Item>
+
+		<Item name="L3_Sword7" versicle="GER_Walk in obedience, love him, serve the Lord with all your heart and soul">
+		</Item>
+
+		<Item name="L3_Sword8" versicle="GER_Fear the Lord your God and serve him.">
+		</Item>
+
+		<Item name="L3_Sword9" versicle="GER_To the Lord belong the heavens, even the highest heavens, the earth and everything in it.">
+		</Item>
+
+		<Item name="L3_Sword10" versicle="GER_The Lord your God is bringing you into a good land, a land with brooks and streams">
+		</Item>
+
+		<Item name="L3_Sword11" versicle="GER_A man disciplines his son, so the Lord your God disciplines you.">
+		</Item>
+
+		<Item name="L3_Sword12" versicle="GER_He will love you and bless you and increase your numbers. He will bless the fruit of your land">
+		</Item>
+
+		<Item name="L3_Sword13" versicle="GER_Hear, O Israel: The Lord our God, the Lord is one.">
+		</Item>
+
+		<Item name="L3_Sword14" versicle="GER_Love the Lord your God with all your heart and with all your soul and with all your strength.">
+		</Item>
+
+		<Item name="L3_Sword15" versicle="GER_but showing love to a thousand generations of those who love me and keep my commandments.">
+		</Item>
+
+		<Item name="L3_Sword16" versicle="GER_You saw no form of any kind the day the Lord spoke to you at Horeb">
+		</Item>
+
+		<Item name="L3_Sword17" versicle="GER_But if from there you seek the Lord your God, you will find Him">
+		</Item>
+
+		<Item name="L3_Sword18" versicle="GER_But as for me and my household, we will serve the Lord.">
+		</Item>
+
+		<Item name="L3_Sword19" versicle="GER_I will sing of the Lord’s great love forever">
+		</Item>
+
+		<Item name="L3_Sword20" versicle="GER_By this everyone will know that you are my disciples, if you love one another">
+		</Item>
+
+
+
+
+
+		<Item name="L4_Sword1" versicle="Affida al Signore la tua attività e i tuoi progetti riusciranno.">
+		</Item>
+
+		<Item name="L4_Sword2" versicle="Prima che mi invochino, io risponderò; mentre ancora stanno parlando, io gia li avrò ascoltati.">
+		</Item>
+
+		<Item name="L4_Sword3" versicle="In un cuore assennato risiede la sapienza">
+		</Item>
+
+		<Item name="L4_Sword4" versicle="Un cuore tranquillo è la vita di tutto il corpo, l'invidia è la carie delle ossa.">
+		</Item>
+
+		<Item name="L4_Sword5" versicle="Un cuore lieto rende ilare il volto, ma, quando il cuore è triste, lo spirito è depresso.">
+		</Item>
+
+		<Item name="L4_Sword6" versicle="Tutta bella tu sei, amica mia, in te nessuna macchia.">
+		</Item>
+
+		<Item name="L4_Sword7" versicle="ITA_Walk in obedience, love him, serve the Lord with all your heart and soul">
+		</Item>
+
+		<Item name="L4_Sword8" versicle="ITA_Fear the Lord your God and serve him.">
+		</Item>
+
+		<Item name="L4_Sword9" versicle="ITA_To the Lord belong the heavens, even the highest heavens, the earth and everything in it.">
+		</Item>
+
+		<Item name="L4_Sword10" versicle="ITA_The Lord your God is bringing you into a good land, a land with brooks and streams">
+		</Item>
+
+		<Item name="L4_Sword11" versicle="ITA_A man disciplines his son, so the Lord your God disciplines you.">
+		</Item>
+
+		<Item name="L4_Sword12" versicle="ITA_He will love you and bless you and increase your numbers. He will bless the fruit of your land">
+		</Item>
+
+		<Item name="L4_Sword13" versicle="ITA_Hear, O Israel: The Lord our God, the Lord is one.">
+		</Item>
+
+		<Item name="L4_Sword14" versicle="ITA_Love the Lord your God with all your heart and with all your soul and with all your strength.">
+		</Item>
+
+		<Item name="L4_Sword15" versicle="ITA_but showing love to a thousand generations of those who love me and keep my commandments.">
+		</Item>
+
+		<Item name="L4_Sword16" versicle="ITA_You saw no form of any kind the day the Lord spoke to you at Horeb">
+		</Item>
+
+		<Item name="L4_Sword17" versicle="ITA_But if from there you seek the Lord your God, you will find Him">
+		</Item>
+
+		<Item name="L4_Sword18" versicle="ITA_But as for me and my household, we will serve the Lord.">
+		</Item>
+
+		<Item name="L4_Sword19" versicle="ITA_I will sing of the Lord’s great love forever">
+		</Item>
+
+		<Item name="L4_Sword20" versicle="ITA_By this everyone will know that you are my disciples, if you love one another">
+		</Item>
+
+
+
+
+
+		<Item name="L5_Sword1" versicle="Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos.">
+		</Item>
+
+		<Item name="L5_Sword2" versicle="Antes de clamarem, eu responderei; ainda não estarão falando, e eu os ouvirei.">
+		</Item>
+
+		<Item name="L5_Sword3" versicle="NA sabedoria repousa no coração dos que têm discernimento">
+		</Item>
+
+		<Item name="L5_Sword4" versicle="O coração em paz dá vida ao corpo, mas a inveja apodrece os ossos.">
+		</Item>
+
+		<Item name="L5_Sword5" versicle="A alegria do coração transparece no rosto, mas o coração angustiado oprime o espírito.">
+		</Item>
+
+		<Item name="L5_Sword6" versicle="Você é toda linda, minha querida; em você não há defeito algum.">
+		</Item>
+
+		<Item name="L5_Sword7" versicle="POR_Walk in obedience, love him, serve the Lord with all your heart and soul">
+		</Item>
+
+		<Item name="L5_Sword8" versicle="POR_Fear the Lord your God and serve him.">
+		</Item>
+
+		<Item name="L5_Sword9" versicle="POR_To the Lord belong the heavens, even the highest heavens, the earth and everything in it.">
+		</Item>
+
+		<Item name="L5_Sword10" versicle="POR_The Lord your God is bringing you into a good land, a land with brooks and streams">
+		</Item>
+
+		<Item name="L5_Sword11" versicle="POR_A man disciplines his son, so the Lord your God disciplines you.">
+		</Item>
+
+		<Item name="L5_Sword12" versicle="POR_He will love you and bless you and increase your numbers. He will bless the fruit of your land">
+		</Item>
+
+		<Item name="L5_Sword13" versicle="POR_Hear, O Israel: The Lord our God, the Lord is one.">
+		</Item>
+
+		<Item name="L5_Sword14" versicle="POR_Love the Lord your God with all your heart and with all your soul and with all your strength.">
+		</Item>
+
+		<Item name="L5_Sword15" versicle="POR_but showing love to a thousand generations of those who love me and keep my commandments.">
+		</Item>
+
+		<Item name="L5_Sword16" versicle="POR_You saw no form of any kind the day the Lord spoke to you at Horeb">
+		</Item>
+
+		<Item name="L5_Sword17" versicle="POR_But if from there you seek the Lord your God, you will find Him">
+		</Item>
+
+		<Item name="L5_Sword18" versicle="POR_But as for me and my household, we will serve the Lord.">
+		</Item>
+
+		<Item name="L5_Sword19" versicle="POR_I will sing of the Lord’s great love forever">
+		</Item>
+
+		<Item name="L5_Sword20" versicle="POR_By this everyone will know that you are my disciples, if you love one another">
+		</Item>
+
+	</Items>
+</ItemCollection>
